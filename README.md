@@ -62,7 +62,7 @@ Based upon the balanced accuracy scores, either of the Ensemble models could be 
 
 **BalancedRandomForestClassifier**
 
-![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/main/images/BalancedRandomForestClassifier.png)
+![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/images/BalancedRandomForestClassifier.png)
 
 **EasyEnsembleClassifier**
 
