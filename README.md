@@ -42,28 +42,28 @@ Based upon the balanced accuracy scores, either of the Ensemble models could be 
 
 **RandomOverSampler**
 
-![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/RandomOverSampler.png)
+![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/images/RandomOverSampler.png)
 
 **SMOTE**
 
-![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/RandomOverSampler.png)
+![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/images/RandomOverSampler.png)
 
 
 **ClusterCentroids**  
 
-![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/RandomOverSampler.png)
+![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/images/RandomOverSampler.png)
 
 **SMOTEEN**  
 
-![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/RandomOverSampler.png)
+![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/images/randomOverSampler.png)
 
 
 ## Ensemble Models
 
 **BalancedRandomForestClassifier**
 
-![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/main/BalancedRandomForestClassifier.png)
+![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/main/images/BalancedRandomForestClassifier.png)
 
 **EasyEnsembleClassifier**
 
-![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/main/EasyEnsembleClassifier.png)
+![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/main/images/EasyEnsembleClassifier.png)
